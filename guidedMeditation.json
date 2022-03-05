@@ -1,0 +1,20 @@
+{
+   "audios":[
+      {
+         "id":"micro1001",
+         "name":"Short Relaxation",
+         "description":"Begin Your Inner Peace",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/156882062-3d064cb3-2764-4e6b-b450-ea3381216456.png",
+         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
+         "duraction":"5mins 3secs"
+      },
+      {
+         "id":"micro1001",
+         "name":"Short Relaxation",
+         "description":"Begin Your Inner Peace",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/156882062-3d064cb3-2764-4e6b-b450-ea3381216456.png",
+         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
+         "duraction":"5mins 3secs"
+      }
+   ]
+}
