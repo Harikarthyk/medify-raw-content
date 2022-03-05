@@ -1,17 +1,17 @@
 {
    "audios":[
       {
-         "id":"micro1001",
-         "name":"Short Relaxation",
-         "description":"Begin Your Inner Peace",
+         "id":"guidedMediation1001",
+         "name":"Kalpariksha Meditation",
+         "description":"Lets Achieve Everything you needed by a slow steady process.",
          "imageUrl":"https://user-images.githubusercontent.com/54505967/156882062-3d064cb3-2764-4e6b-b450-ea3381216456.png",
          "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
          "duraction":"5mins 3secs"
       },
       {
-         "id":"micro1001",
-         "name":"Short Relaxation",
-         "description":"Begin Your Inner Peace",
+         "id":"guidedMediation1002",
+         "name":"Just 5 Mins",
+         "description":"Starting growing yourself by spending less than an 5 minutes a day.",
          "imageUrl":"https://user-images.githubusercontent.com/54505967/156882062-3d064cb3-2764-4e6b-b450-ea3381216456.png",
          "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
          "duraction":"5mins 3secs"
