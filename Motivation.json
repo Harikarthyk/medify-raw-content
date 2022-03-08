@@ -1,7 +1,20 @@
 {
   "audios":[
-    {
-      
-    }
-  ] 
+      {
+         "id":"Motivation1001",
+         "name":"Quick Motivation",
+         "description":"Make yourself motivated regularly to achieve your goal without any break.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891473-decb3342-e9c7-4982-91c4-841fd2886906.png",
+         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
+         "duration":"4 mins 31 secs"
+      },
+      {
+         "id":"Motivation1002",
+         "name":"Lets Begin",
+         "description":"Grow day by day.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891416-9fa21638-18d8-46a7-89bf-c1167dbcca3a.png",
+         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
+         "duration":"4 mins 51 secs"
+      }
+   ]
 }
