@@ -4,17 +4,25 @@
          "id":"Motivation1001",
          "name":"Quick Motivation",
          "description":"Make yourself motivated regularly to achieve your goal without any break.",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891473-decb3342-e9c7-4982-91c4-841fd2886906.png",
-         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
-         "duration":"4 mins 31 secs"
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157476742-05c418c0-860a-4323-919d-33006c80dcbb.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=1cR2EcQRqajoQvjKucY2ECjHaGDait9Ae",
+         "duration":"5 mins"
       },
       {
          "id":"Motivation1002",
          "name":"Lets Begin",
          "description":"Grow day by day.",
          "imageUrl":"https://user-images.githubusercontent.com/54505967/156891416-9fa21638-18d8-46a7-89bf-c1167dbcca3a.png",
-         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
-         "duration":"4 mins 51 secs"
+         "audioTrack":"https://docs.google.com/uc?export=download&id=11PKrI0jXCPSc3gNyXCzxmYdVoq6fFN2P",
+         "duration":"4 mins"
+      },
+      {
+         "id":"Motivation1003",
+         "name":"Motivational Music",
+         "description":"Dont Give up.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157476852-23ec2c0d-7881-4f37-9445-4f95617353f9.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=11WgO1a3DvsYx67SdH5CcEKOVwhIrTj_K",
+         "duration":"3 mins 30 secs"
       }
    ]
 }
