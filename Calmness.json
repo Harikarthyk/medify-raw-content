@@ -4,17 +4,33 @@
          "id":"Calmness1001",
          "name":"Be calm and chill",
          "description":"Lets be calm and soft for a while.",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891473-decb3342-e9c7-4982-91c4-841fd2886906.png",
-         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
-         "duration":"4 mins 31 secs"
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157471507-82c7c599-6c81-446c-93a2-ed8be5382842.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=1nUiVGUxy4UfB6r7IUmfDFXDtQsWey2Kh",
+         "duration":"2 mins 48 secs"
       },
       {
          "id":"Calmness1002",
          "name":"Calm Calm Calm",
          "description":"Being Calm and patient is essential in life.",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891416-9fa21638-18d8-46a7-89bf-c1167dbcca3a.png",
-         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157473210-8d428aec-8280-4358-beae-51366775bc53.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=1GAcoSRCTLV4SyskzSJsoaM5NhphDaTnZ",
          "duration":"4 mins 51 secs"
+      },
+      {
+         "id":"Calmness1003",
+         "name":"Calm Music",
+         "description":"Be Calm and Chill.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157473545-2361a6ab-015c-4b40-afc6-a0d21af53cce.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=16kiSgf3G1q6ogjaekXToL1aZwMC1dqrd",
+         "duration":"3 mins 48 secs"
+      },
+      {
+         "id":"Calmness1004",
+         "name":"Calm Relaxing Music",
+         "description":"Calm your self.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157474340-7e4e28a6-15be-4f86-8b75-4767630c0b3b.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=1V00IQJMs3lHQ4Hg_r7aWchlFsOxfaymC",
+         "duration":"2 mins 44 secs"
       }
    ]
 }
