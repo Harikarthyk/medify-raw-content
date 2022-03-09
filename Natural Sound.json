@@ -12,9 +12,17 @@
          "id":"Natural Sound1002",
          "name":"Forest Sound",
          "description":"Forest sound with ambient",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891416-9fa21638-18d8-46a7-89bf-c1167dbcca3a.png",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157480539-8db0234c-1668-41e7-b842-0837a29cd485.png",
          "audioTrack":"https://docs.google.com/uc?export=download&id=1-SsNKgXfguWZkPHDJrFgQB8JPQMgbKqy",
          "duration":"4 mins 17 secs"
+      },
+      {
+         "id":"Natural Sound1003",
+         "name":"Rain thunder with piano",
+         "description":"Get medify with drops of rain.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157480539-8db0234c-1668-41e7-b842-0837a29cd485.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=1UJEDyNBjmFpw6X-5dFL-pUhWl38DpX8s",
+         "duration":"15 mins 3 secs"
       }
    ]
 }
