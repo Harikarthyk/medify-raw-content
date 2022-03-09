@@ -3,18 +3,18 @@
       {
          "id":"Natural Sound1001",
          "name":"Get into the mood of mediation with natural sound.",
-         "description":"Flute Sound that make you relax.",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891473-decb3342-e9c7-4982-91c4-841fd2886906.png",
-         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
-         "duration":"4 mins 31 secs"
+         "description":"Jungle sounds with birds.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157479563-03c0501f-2ef6-4119-a1f2-9a8cd795216e.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=1iPwl6KhUC_U0VsFZI88OBBnug7R3VjSM",
+         "duration":"4 mins 44 secs"
       },
       {
          "id":"Natural Sound1002",
-         "name":"River flowing Sound",
-         "description":"Just feel the presence.",
+         "name":"Forest Sound",
+         "description":"Forest sound with ambient",
          "imageUrl":"https://user-images.githubusercontent.com/54505967/156891416-9fa21638-18d8-46a7-89bf-c1167dbcca3a.png",
-         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
-         "duration":"4 mins 51 secs"
+         "audioTrack":"https://docs.google.com/uc?export=download&id=1-SsNKgXfguWZkPHDJrFgQB8JPQMgbKqy",
+         "duration":"4 mins 17 secs"
       }
    ]
 }
