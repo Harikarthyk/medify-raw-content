@@ -3,18 +3,18 @@
       {
          "id":"Relaxation1001",
          "name":"Have a break",
-         "description":"Just take a short break and get back to work.",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891473-decb3342-e9c7-4982-91c4-841fd2886906.png",
-         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
-         "duration":"4 mins 31 secs"
+         "description":"Relaxing Music for Sleep, Meditation.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157574802-db1463d2-3de1-4743-8ee8-7142e67b516b.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=1fTF92VnLn2AvPM9wemuJpDA7fmklh0H6",
+         "duration":"4 mins 24 secs"
       },
       {
          "id":"Relaxation1002",
          "name":"Relax yourself",
-         "description":"Make yourself calm and relax.",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891416-9fa21638-18d8-46a7-89bf-c1167dbcca3a.png",
-         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
-         "duration":"4 mins 51 secs"
+         "description":"Beautiful and Relaxing Piano Music.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157574943-651ea709-da9d-4fd3-9070-8eb3fbc654a6.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=",
+         "duration":"3 mins 19 secs"
       }
    ]
 }
