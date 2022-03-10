@@ -3,18 +3,26 @@
       {
          "id":"Sleep1001",
          "name":"Have a good sleep",
-         "description":"Make your mind clear and fresh before sleep.",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891473-decb3342-e9c7-4982-91c4-841fd2886906.png",
-         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
-         "duration":"4 mins 31 secs"
+         "description":"Relief DEEP Sleep.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157575507-e99a66ac-1313-4f78-a708-b60182b0c35d.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=1Aavl_k5OiFBanf9o-f0se36ABZMKy3Wn",
+         "duration":"5 mins 07 secs"
       },
       {
          "id":"Sleep1002",
-         "name":"Take a quick nap 😴 ",
-         "description":"Just Relax and close your eyes.",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891416-9fa21638-18d8-46a7-89bf-c1167dbcca3a.png",
-         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
-         "duration":"4 mins 51 secs"
+         "name":"Take a quick nap 😴",
+         "description":"😴 Sleep + Ambient Music.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157575573-611bf912-481e-45b6-966c-e8f543579010.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=1Aavl_k5OiFBanf9o-f0se36ABZMKy3Wn",
+         "duration":"4 mins 5 secs"
+      },
+      {
+         "id":"Sleep1003",
+         "name":"Have a better sleep",
+         "description":" Sufi Music, Meditation Music, Relaxing Music, Sleep Music.",
+         "imageUrl":"https://user-images.githubusercontent.com/54505967/157575941-26bbc6a0-55ea-4404-a8f1-b25c5c741965.png",
+         "audioTrack":"https://docs.google.com/uc?export=download&id=1kw39A_6svlBMUUMXJdL5SeJnJK8PXbMP",
+         "duration":"3 mins 3 secs"
       }
    ]
 }
