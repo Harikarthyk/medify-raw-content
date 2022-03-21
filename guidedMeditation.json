@@ -1,14 +1,6 @@
 {
    "audios":[
       {
-         "id":"guidedMediation1001",
-         "name":"Kalpariksha Meditation",
-         "description":"Lets Achieve Everything you needed by a slow steady process.",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891147-9c452da4-eb15-4cf3-82ab-0a8493e80e76.png",
-         "audioTrack":"https://harikarthyk.s3.ap-south-1.amazonaws.com/SleepBearthing.mp3",
-         "duration":"32 mins 55 secs"
-      },
-      {
          "id":"guidedMediation1002",
          "name":"Just 5 Mins",
          "description":"Starting growing yourself by spending less than an 5 minutes a day.",
