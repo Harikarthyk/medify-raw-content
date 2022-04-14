@@ -6,15 +6,15 @@
          "description": "Guided Meditation by Sadhguru",
          "imageUrl": "https://user-images.githubusercontent.com/54505967/163388419-4fb862fc-5852-4f35-ba9c-0e88889e9db8.png",
          "audioTrack": "https://docs.google.com/uc?export=download&id=1iUt2PBbDdti38CaKY5VO5dCtqNdGaEGC",
-         "duration": "31mins"
+         "duration": "31 mins"
       },
       {
          "id": "guidedMediation1001",
-         "name": "Kalpavriksha",
-         "description": "Guided Meditation by Sadhguru",
-         "imageUrl": "https://user-images.githubusercontent.com/54505967/163388419-4fb862fc-5852-4f35-ba9c-0e88889e9db8.png",
-         "audioTrack": "https://docs.google.com/uc?export=download&id=1iUt2PBbDdti38CaKY5VO5dCtqNdGaEGC",
-         "duration": "31mins"
+         "name": "Isha Kriya",
+         "description": "Free Online Guided Meditation By Sadhguru",
+         "imageUrl": "https://user-images.githubusercontent.com/54505967/163389579-3bd3acfd-4ac9-4b0f-a42f-76795bcddaee.png",
+         "audioTrack": "https://docs.google.com/uc?export=download&id=15eXyWTC-V-csF5w5kzzqrJbZ8wINVfFq",
+         "duration": "18 mins 50 sec"
       }
    ]
 }
