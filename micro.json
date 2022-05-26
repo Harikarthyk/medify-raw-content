@@ -1,20 +1,5 @@
 {
    "audios":[
-      {
-         "id":"micro1001",
-         "name":"Take a quicky relaxation",
-         "description":"A Guided Meditation For Health And Wellbeing",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891473-decb3342-e9c7-4982-91c4-841fd2886906.png",
-         "audioTrack":"https://docs.google.com/uc?export=download&id=1RtiUUezNVTgEmQO51QGEmH8neBqutYAf",
-         "duration":"3 mins 40 secs"
-      },
-      {
-         "id":"micro1002",
-         "name":"Take a quicky relaxation",
-         "description":"A Guided Meditation For Health And Wellbeing",
-         "imageUrl":"https://user-images.githubusercontent.com/54505967/156891473-decb3342-e9c7-4982-91c4-841fd2886906.png",
-         "audioTrack":"https://docs.google.com/uc?export=download&id=1h8vlpBZK48kmy63Gm5zgapVSF0NNDQ3h",
-         "duration":"5 mins 20 secs"
-      },
+      
    ]
 }
