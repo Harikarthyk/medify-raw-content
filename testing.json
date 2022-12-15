@@ -1,6 +1,6 @@
 {
   "value": "123.23K",
-  "indicatorType": "down",
+  "indicatorType": "up",
   "indicatorValue": "2189",
   "title": "From JSON",
   "icon": "pi pi-database"
