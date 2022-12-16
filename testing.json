@@ -1,7 +1,7 @@
 {
-  "value": "123.23K",
-  "indicatorType": "up",
+  "value": "5.23K",
+  "indicatorType": "down",
   "indicatorValue": "2189",
-  "title": "From JSON 12",
-  "icon": "pi pi-database"
+  "title": "From Github JSON",
+  "icon": "pi pi-book"
 }
